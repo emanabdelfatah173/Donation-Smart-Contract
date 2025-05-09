@@ -1,9 +1,6 @@
-# Donation-Smart-Contract
-A smart contract for receiving and managing ETH donations on the Ethereum blockchain.
-
 # Donation Smart Contract
 
-A simple and transparent Ethereum smart contract written in Solidity for accepting and managing donations.
+A simple and transparent Ethereum smart contract written in Solidity for accepting and managing donations on the Ethereum blockchain..
 
 ## Features
 
